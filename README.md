@@ -17,4 +17,4 @@ Used tools:
 
 ## Live Uploaded Site
 
-> https://nikihoven.github.io/weeny-markup-1/
+> https://nikihoven.github.io/weeny-markup/
