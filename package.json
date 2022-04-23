@@ -2,6 +2,7 @@
   "name": "britlex",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://nikihoven.github.io/weeny-markup-1/",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
