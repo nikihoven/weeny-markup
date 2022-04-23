@@ -1,0 +1,21 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+$font-family: 'Poppins', sans-serif;
+
+/* Variables */
+@import 'variables';
+
+/* Reset */
+@import 'reset';
+
+/* Blocks */
+@import 'blocks/0_main';
+@import 'blocks/1_container';
+@import 'blocks/2_header';
+@import 'blocks/3_starter';
+@import 'blocks/4_skills';
+@import 'blocks/5_about';
+@import 'blocks/6_pricing';
+@import 'blocks/7_contact';
+@import 'blocks/8_footer';

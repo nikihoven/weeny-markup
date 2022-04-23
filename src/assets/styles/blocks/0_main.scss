@@ -1,0 +1,53 @@
+.page {
+  font-family: $font-family;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  min-width: 100%;
+  min-height: 100%;
+  color: $gray-primary;
+
+  &__body {
+    width: inherit;
+    height: inherit;
+  }
+
+  &__wrapper {
+    position: relative;
+    width: inherit;
+    height: inherit;
+  }
+}
+
+.button {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  width: fit-content;
+  padding: 0.7em 2.375em;
+  transition: color 0.2s ease, background-color 0.2s ease;
+  color: $black-primary;
+  border-radius: 5px;
+  outline: 2px $blue-primary solid;
+  background-color: transparent;
+
+  &:hover {
+    color: $white-primary;
+    background-color: $blue-primary;
+  }
+
+  &--secondary {
+    padding: 0.89em 3.25em;
+    color: $white-primary;
+    background-color: $blue-primary;
+
+    &:hover {
+      color: $black-primary;
+      background-color: transparent;
+    }
+  }
+
+  @media (width < 1450px) {
+    font-size: 18px;
+  }
+}
