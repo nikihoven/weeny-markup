@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee427627.css",
+    "main.js": "/static/js/main.4729eb6b.js",
+    "static/media/start2x.png": "/static/media/start2x.682b862a0cbfeb1c28e3.png",
+    "static/media/about2x.png": "/static/media/about2x.97bd3c5df9d322143e72.png",
+    "static/media/contact2x.png": "/static/media/contact2x.650ac57b01923fe9f76c.png",
+    "static/media/personal2x.png": "/static/media/personal2x.fe273611807db7f9a182.png",
+    "static/media/start1x.png": "/static/media/start1x.a00849eeb4f3d5bfa1b4.png",
+    "static/media/listening2x.png": "/static/media/listening2x.0a85d64823caf1b383a2.png",
+    "static/media/writing2x.png": "/static/media/writing2x.14ca9f73a4d128fa81b9.png",
+    "static/media/speaking2x.png": "/static/media/speaking2x.92d7ae7c242c20a12a04.png",
+    "static/media/offline2x.png": "/static/media/offline2x.13d10cb1dd8ef56b902c.png",
+    "static/media/about1x.png": "/static/media/about1x.85a2080b0184b097e0b9.png",
+    "static/media/reading2x.png": "/static/media/reading2x.ad27fb7b55983e9c57a2.png",
+    "static/media/live2x.png": "/static/media/live2x.45084641d39a78811aa2.png",
+    "static/media/contact1x.png": "/static/media/contact1x.c8a9981060a2ebed59bb.png",
+    "static/media/personal1x.png": "/static/media/personal1x.1b23599020cb8a001b3e.png",
+    "static/media/listening1x.png": "/static/media/listening1x.2a14e48d1037bacc0160.png",
+    "static/media/speaking1x.png": "/static/media/speaking1x.31a4eefddb7821e95f7e.png",
+    "static/media/writing1x.png": "/static/media/writing1x.c18d7d210d49b4e8db77.png",
+    "static/media/reading1x.png": "/static/media/reading1x.15ab486710b4ae41c264.png",
+    "static/media/offline1x.png": "/static/media/offline1x.86f4f81c5d59b8e580b3.png",
+    "static/media/live1x.png": "/static/media/live1x.e9a8ff754fdd58d0ce92.png",
+    "static/media/logotype.svg": "/static/media/logotype.81f7cca8a13e2de9ffc6c01fe62b8d06.svg",
+    "index.html": "/index.html",
+    "main.ee427627.css.map": "/static/css/main.ee427627.css.map",
+    "main.4729eb6b.js.map": "/static/js/main.4729eb6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee427627.css",
+    "static/js/main.4729eb6b.js"
+  ]
+}
